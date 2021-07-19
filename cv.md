@@ -3,6 +3,7 @@
 mail: [pylko.nata@gmail.com](mailto:pylko.nata@gmail.com)  
 telegram: [NataPylko](https://t.me/NataPylko)  
 ![Image][1]
+
 _My goal is to change the scope of my work, acquire new skills necessary to be a qualified front-end developer_
 
 ---
