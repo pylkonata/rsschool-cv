@@ -92,4 +92,4 @@ _**Management**_
   - language practice: WOW Classic EU server player;
   - Reading Harry Potter in original;
 
-[1]: https://i.pinimg.com/736x/95/47/11/954711b0304528672ec1a2bb91a3cdd6--pokemon-images-anime-girls.jpg
+[1]: https://github.com/pylkonata/Docs_Rss_school/blob/main/Images/cv/markdownCV_2.jpg?raw=true
