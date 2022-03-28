@@ -2,7 +2,7 @@
 
 mail: [pylko.nata@gmail.com](mailto:pylko.nata@gmail.com)  
 telegram: [NataPylko](https://t.me/NataPylko)  
-![Image][1]
+![My avatar](https://github.com/pylkonata/Docs_Rss_school/blob/main/Images/cv/md_cv_im.jpg?raw=true)
 
 _My goal is to change the scope of my work, acquire new skills necessary to be a qualified front-end developer_
 
@@ -93,5 +93,3 @@ _Management_
   - English courses (time to time);
   - language practice: WOW Classic EU server player;
   - Reading Harry Potter in original;
-
-[1]: https://github.com/pylkonata/Docs_Rss_school/blob/main/Images/cv/md_cv_im.jpg?raw=true
