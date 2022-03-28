@@ -94,4 +94,4 @@ _Management_
   - language practice: WOW Classic EU server player;
   - Reading Harry Potter in original;
 
-[1]: https://github.com/pylkonata/Docs_Rss_school/blob/main/Images/cv/markdownCV_2.jpg?raw=true
+[1]: https://github.com/pylkonata/Docs_Rss_school/blob/main/Images/cv/md_cv_im.jpg?raw=true
