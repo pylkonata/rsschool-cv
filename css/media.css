@@ -1,0 +1,154 @@
+@media (max-width: 1169px) {
+    .wrapper {
+        width: 100%;
+        display: flex;
+    }
+    .sidebar {
+        max-width: 330px;
+        margin: 30px 20px 30px 30px;
+        padding: 10px;
+    }
+
+    .me-container {
+        margin: 30px 30px 30px 10px;        
+    }
+
+    .my-photo {
+       margin-top: 40px;
+    }
+
+}
+@media (max-width: 1030px) {
+    .paragraph {
+        margin-left: 10px;
+        font-size: 14px;
+    }
+    .dots {
+        display: none;
+    }
+    .javascript {
+        max-width: 400px;
+        padding: 0;
+        font-size: 14px;
+    }
+
+}
+@media (max-width: 900px) {
+    .sidebar {
+        max-width: 270px;
+        margin: 10px;
+        padding: 10px;
+    }
+
+    .me-container {
+        margin: 10px;
+    }
+    .name {
+        font-size: 40px;
+        font-weight: 700;
+        line-height: 45px;
+    }
+
+    .title {
+        font-size: 18px;
+        font-weight: 700;
+        line-height: 20px;
+    }
+    .contacts-link {
+        font-size: 16px;
+        line-height: 18px;
+    }
+    .contacts-icons {
+        max-height: 18px;
+    }
+    .skill-item {
+        font-size: 14px;
+        line-height: 16px;       
+    }
+    .skill-point {
+        width: 10px;
+        height: 10px;
+    }
+    .soft-skill-container {
+        margin: 75px 10px 0 10px;
+        padding-left: 25px;
+    }
+    .soft-skill-text {
+        font-size: 14px;
+        line-height: 16px;
+    }
+    .about-me-title {
+        font-size: 18px;
+        line-height: 20px;
+    }
+
+    .javascript {
+        max-width: 350px;
+        font-size: 12px;
+    }
+    .university-name {
+        font-size: 16px;
+        line-height: 20px;
+        font-weight: 600;
+    }
+    .time-container {
+        display: none;
+    }
+}
+@media (max-width: 740px) {
+    body {
+        padding: 0;
+    }
+    .sidebar {
+        max-width: 250px;
+        margin: 0 auto;
+    }
+
+    .me-container {
+        padding: 50px 20px;
+        width: 100%;
+        margin: 0 auto;
+    }
+    .paragraph {
+        display: block;
+    }
+}
+@media (max-width: 599px) {
+    body {
+        margin: 25px;
+    }
+    .wrapper {
+        display: block;
+    }
+    .sidebar {
+        max-width: 599px;
+        margin: 0 auto;
+        padding: 20px;
+    }
+    .tech-skill-container {
+        margin-top: 60px;
+        padding: 40px;
+        
+    }
+    .soft-skill-container {
+        margin-top: 60px;
+        padding: 40px;
+    }
+    .javascript {
+        max-width: 450px;
+    }
+    .title {
+        font-size: 20px;
+        line-height: 22px;
+    }
+}    
+@media (max-width: 420px) {
+    .tech-skill-container,
+    .soft-skill-container {
+        padding: 0;
+    }
+    .footer-logo-image {
+        height: 15px;
+    }
+}
+
